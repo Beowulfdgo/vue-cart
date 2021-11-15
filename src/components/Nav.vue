@@ -9,15 +9,15 @@
     </div> 
     <div class="flex-none px-2 mx-2">
         <span class="text-lg font-bold">
-        Shopping Cart</span>
+        Papi Chulo's Mexicana</span>
         </div> 
         <div class="flex-1 px-2 mx-2">
         <div class="items-stretch hidden lg:flex">
             <router-link class="btn btn-ghost btn-sm rounded-btn" to="/">
-                Home
+                Menu Papi Chulo's Mexicana
             </router-link> 
             <router-link class="btn btn-ghost btn-sm rounded-btn" to="/cart">
-                Cart
+                Show my Order
                 <div class="badge ml-2 badge-outline" v-text="count"></div>
             </router-link> 
         </div>

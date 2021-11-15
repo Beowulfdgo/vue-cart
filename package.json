@@ -12,6 +12,8 @@
     "vue-router": "4"
   },
   "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/node": "^7.16.0",
     "@vitejs/plugin-vue": "^1.2.3",
     "@vue/compiler-sfc": "^3.2.20",
     "autoprefixer": "^10.2.6",
